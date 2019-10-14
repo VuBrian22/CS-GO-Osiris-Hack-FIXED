@@ -234,5 +234,8 @@ Osiris is based on six main global objects ("modules") - see [Osiris.cpp](https:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
 
+When the Lights Go Out (Radio Edit)
+Five - 5ive
+
 ## See also
 - [Anubis](https://github.com/danielkrupinski/Anubis) - free and open source cheat for CS:GO with configuration compatible with Osiris
